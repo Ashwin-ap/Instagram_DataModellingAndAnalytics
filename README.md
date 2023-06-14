@@ -1,2 +1,2 @@
 # Instagram_DataModellingAndAnalytics
-Instagram modelling after making its ER diagram and creating tables and data entry. Using postgresql analytical functions to perform various activities
+ In this project, designed a data model for Instagram using PostgreSQL.created different tables and build the data model, generate SQL create table statements, insert data, show examples of updating data, and add analytic examples using where condition, orderby, group by, having clause, and explain different aggregation functions. Also covered subquery, window function, CTE, case statement, date casting, and working with dates.
